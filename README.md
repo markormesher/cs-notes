@@ -22,16 +22,16 @@ Also, please do not pretend you wrote these notes yourself. You didn't. (Yes, pe
 ### First Year
 
 - Full Notes
---* CS1
---* DST
---* ELA
---* FC1
---* IAI
---* PEP
+  - CS1
+  - DST
+  - ELA
+  - FC1
+  - IAI
+  - PEP
 - Partial Notes
---* PRA (no notes for HCI topics; full notes for everything else)
+  - PRA (no notes for HCI topics; full notes for everything else)
 - No Notes
---* PRP
+  - PRP
 
 ### Second Year
 
