@@ -36,10 +36,10 @@ Also, please do not pretend you wrote these notes yourself. You didn't. (Yes, pe
 ### Second Year
 
 - Full Notes
-  - FC2 (Part A: Crochemore; Part B: Coles)
+  - FC2
+  - OSC
 - Coming Soon
   - CSL
   - DBS
-  - OSC
-  - OSC
+  - OSD
   - PLD
