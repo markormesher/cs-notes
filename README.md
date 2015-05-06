@@ -38,8 +38,8 @@ Also, please do not pretend you wrote these notes yourself. You didn't. (Yes, pe
 - Full Notes
   - FC2
   - OSC
+  - PLD
 - Coming Soon
   - CSL
   - DBS
   - OSD
-  - PLD
