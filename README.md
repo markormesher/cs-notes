@@ -2,27 +2,27 @@
 
 ## Contents
 
-- Intro & Things to Note
-- Sharing
-- Links to PDFs
+- [Intro and Things to Note](#intro-and-things-to-note)
+- [Sharing](#sharing)
+- [Links to PDFs](#links-to-pdfs)
 
-## Intro Things to Note
+## Intro and Things to Note
 
 These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), during my revision for *Computer Science BSc* exams at *King's College London*. I am publishing them here to help my classmates and other students in the years below me. To the best of my knowledge they are correct, however please note the following:
 
 - These notes are **not endorsed** by King's College London, the module lecturers, or any member of College staff.
-- These notes are **not checked** by any qualified individual, and I offer absolutely no guarantee as to how accurate, correct or complete these notes are. They are offered for free, as-is, and I accept no responsibility for how you choose to use them.
+- These notes are **not checked** by any qualified individual, and I offer no guarantee as to how accurate or complete these notes are. They are offered for free, as-is, and I accept no responsibility for how you choose to use them.
 - These notes were relevant for my year, but **the content for your course may have changed**. Check your lecture slides, syllabi, tutorial guides, etc.
 - These notes were produced for personal use (it's how I like to revise) and sharing them was an afterthough. That means that the handwriting is scruffy, some annotations may by irrelevant, and some topics might be skipped entirely.
-- This also means that there are no notes for management modules, robotics, etc. Sorry!
+- There are no notes for management modules, robotics, etc. Sorry!
 
 ## Sharing
 
 :white_check_mark: Feel free to share these notes!
 
-:white_check_mark: Share a link to this repo: [https://github.com/markormesher/CS-Notes](https://github.com/markormesher/CS-Notes).
+:white_check_mark: **Share a link** to this repo: [https://github.com/markormesher/CS-Notes](https://github.com/markormesher/CS-Notes).
 
-:bangbang: **Do not** share individual files.
+:bangbang: **Do not** share individual files *(see above)*.
 
 :bangbang: **Do not** pretend you wrote these yourself; you didn't. (Yes, I've seen people doing this.)
 
