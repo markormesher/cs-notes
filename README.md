@@ -1,44 +1,54 @@
 # Computer Science Notes
 
-These notes were written by me, Mark Ormesher, during my revision for *Computer Science BSc* exams at *King's College London*. I am publishing them here to help my classmates and other students in the years below me. To the best of my knowledge they are correct, however there are some things to note below.
+## Contents
 
-*(Scroll down for the list of actual notes.)*
+- Intro & Things to Note
+- Sharing
+- Links to PDFs
 
-## Things to Note
+## Intro Things to Note
+
+These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), during my revision for *Computer Science BSc* exams at *King's College London*. I am publishing them here to help my classmates and other students in the years below me. To the best of my knowledge they are correct, however please note the following:
 
 - These notes are **not endorsed** by King's College London, the module lecturers, or any member of College staff.
 - These notes are **not checked** by any qualified individual, and I offer absolutely no guarantee as to how accurate, correct or complete these notes are. They are offered for free, as-is, and I accept no responsibility for how you choose to use them.
-- These notes were relevant for my year, but the content for your course may well have changed. Check your lecture slides, syllabi, tutorial guides, etc.
-- These notes were originally produced for personal use only (it's how I like to revise) and sharing them was an afterthough. That means that the handwriting is scruffy in some places, some annotations may by irrelevant, and some topics might be skipped entirely. This also means that there are no notes for management modules, robotics, etc.
+- These notes were relevant for my year, but **the content for your course may have changed**. Check your lecture slides, syllabi, tutorial guides, etc.
+- These notes were produced for personal use (it's how I like to revise) and sharing them was an afterthough. That means that the handwriting is scruffy, some annotations may by irrelevant, and some topics might be skipped entirely.
+- This also means that there are no notes for management modules, robotics, etc. Sorry!
 
 ## Sharing
 
-The whole point of putting these notes online is to share them, so please free free to share them freely with others. However, **please do not share single files**. Instead, share a link to this repo so that people can access the full set, along with any updates and corrections.
+:white_check_mark: Feel free to share these notes!
+:white_check_mark: Share a link to this repo: [https://github.com/markormesher/CS-Notes](https://github.com/markormesher/CS-Notes).
+:bangbang: **Do not** share individual files.
+:bangbang: **Do not** pretend you wrote these yourself; you didn't. (Yes, I've seen people doing this.)
 
-Also, please do not pretend you wrote these notes yourself. You didn't. (Yes, people have done this.)
-
-## Included in This Repo
+## Links to PDFs
 
 ### First Year
 
 - Full Notes
-  - CS1
-  - DST
-  - ELA
-  - FC1
-  - IAI
-  - PEP
+  - [CS1](https://github.com/markormesher/CS-Notes/raw/master/Year 1/CS1/CS1 Notes.PDF)
+  - [DST](https://github.com/markormesher/CS-Notes/raw/master/Year 1/DST/DST Notes.pdf)
+  - [ELA](https://github.com/markormesher/CS-Notes/raw/master/Year 1/ELA/ELA Notes.PDF)
+  - [FC1](https://github.com/markormesher/CS-Notes/raw/master/Year 1/FC1/FC1 Notes.PDF)
+  - [IAI](https://github.com/markormesher/CS-Notes/raw/master/Year 1/IAI/IAI Notes.pdf)
+  - [PEP](https://github.com/markormesher/CS-Notes/raw/master/Year 1/PEP/PEP Notes.PDF)
 - Partial Notes
-  - PRA (no notes for HCI topics; full notes for everything else)
+  - [PRA](https://github.com/markormesher/CS-Notes/raw/master/Year 1/PRA/PRA Notes.PDF) (no notes for HCI topics; full notes for everything else)
 - No Notes
   - PRP
 
 ### Second Year
 
 - Full Notes
-  - CSL
-  - DB
-  - FC2
-  - OSC
-  - OSD
-  - PLD
+  - [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year 2/CSL/CSL Notes.pdf)
+  - [DB](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/DB Notes.pdf)
+  - [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Amanda Coles.pdf)
+  - [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.PDF)
+  - [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Amanda Coles.pdf)
+  - [OSC - Andrew Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Andrew Coles.pdf)
+  - [OSC - Corrections](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/CORRECTIONS.md)
+  - [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSD/OSD Notes.pdf)
+  - [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/PLD Notes.pdf)
+  - [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/Supplement - Rule Induction.jpg)
