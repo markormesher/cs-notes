@@ -36,10 +36,9 @@ Also, please do not pretend you wrote these notes yourself. You didn't. (Yes, pe
 ### Second Year
 
 - Full Notes
+  - CSL
   - DB
   - FC2
   - OSC
   - OSD
   - PLD
-- Coming Soon
-  - CSL
