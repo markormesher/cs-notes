@@ -19,8 +19,11 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 ## Sharing
 
 :white_check_mark: Feel free to share these notes!
+
 :white_check_mark: Share a link to this repo: [https://github.com/markormesher/CS-Notes](https://github.com/markormesher/CS-Notes).
+
 :bangbang: **Do not** share individual files.
+
 :bangbang: **Do not** pretend you wrote these yourself; you didn't. (Yes, I've seen people doing this.)
 
 ## Links to PDFs
@@ -45,10 +48,10 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
   - [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year 2/CSL/CSL Notes.pdf)
   - [DB](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/DB Notes.pdf)
   - [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Amanda Coles.pdf)
-  - [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.PDF)
+  - [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.pdf)
   - [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Amanda Coles.pdf)
   - [OSC - Andrew Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Andrew Coles.pdf)
-  - [OSC - Corrections](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/CORRECTIONS.md)
+  - [OSC - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year 2/OSC/CORRECTIONS.md)
   - [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSD/OSD Notes.pdf)
   - [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/PLD Notes.pdf)
   - [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/Supplement - Rule Induction.jpg)
