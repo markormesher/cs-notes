@@ -55,3 +55,12 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
   - [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSD/OSD Notes.pdf)
   - [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/PLD Notes.pdf)
   - [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/Supplement - Rule Induction.jpg)
+
+### Third Year
+
+*These notes are filed as "Year 4" because **my** third year was an industrial placement.*
+
+- Full Notes
+  - [AIP](https://github.com/markormesher/cs-notes/tree/master/Year 4/AIP)
+  - [INS](https://github.com/markormesher/cs-notes/tree/master/Year 4/INS)
+  - [PAL](https://github.com/markormesher/cs-notes/tree/master/Year 4/PAL)
