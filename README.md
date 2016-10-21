@@ -46,7 +46,7 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 
 - [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year 2/CSL/CSL Notes.pdf)
 - [DB](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/DB Notes.pdf)
-- [DB - Corrections](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/CORRECTIONS.md)
+- [DB - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year 2/DB/CORRECTIONS.md)
 - [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Amanda Coles.pdf)
 - [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.pdf)
 - [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Amanda Coles.pdf)
