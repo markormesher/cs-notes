@@ -44,24 +44,22 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 
 ### Second Year
 
-- Full Notes
-  - [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year 2/CSL/CSL Notes.pdf)
-  - [DB](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/DB Notes.pdf)
-  - [DB - Corrections](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/CORRECTIONS.md)
-  - [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Amanda Coles.pdf)
-  - [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.pdf)
-  - [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Amanda Coles.pdf)
-  - [OSC - Andrew Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Andrew Coles.pdf)
-  - [OSC - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year 2/OSC/CORRECTIONS.md)
-  - [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSD/OSD Notes.pdf)
-  - [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/PLD Notes.pdf)
-  - [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/Supplement - Rule Induction.jpg)
+- [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year 2/CSL/CSL Notes.pdf)
+- [DB](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/DB Notes.pdf)
+- [DB - Corrections](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/CORRECTIONS.md)
+- [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Amanda Coles.pdf)
+- [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.pdf)
+- [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Amanda Coles.pdf)
+- [OSC - Andrew Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Andrew Coles.pdf)
+- [OSC - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year 2/OSC/CORRECTIONS.md)
+- [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSD/OSD Notes.pdf)
+- [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/PLD Notes.pdf)
+- [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/Supplement - Rule Induction.jpg)
 
 ### Third Year
 
 Note: these notes are filed as "Year 4" because *my* third year was an industrial placement.
 
-- Full Notes
-  - [AIP](https://github.com/markormesher/cs-notes/tree/master/Year 4/AIP)
-  - [INS](https://github.com/markormesher/cs-notes/tree/master/Year 4/INS)
-  - [PAL](https://github.com/markormesher/cs-notes/tree/master/Year 4/PAL)
+- [AIP](https://github.com/markormesher/cs-notes/tree/master/Year 4/AIP)
+- [INS](https://github.com/markormesher/cs-notes/tree/master/Year 4/INS)
+- [PAL](https://github.com/markormesher/cs-notes/tree/master/Year 4/PAL)
