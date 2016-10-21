@@ -59,7 +59,7 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 
 ### Third Year
 
-*These notes are filed as "Year 4" because **my** third year was an industrial placement.*
+Note: these notes are filed as "Year 4" because *my* third year was an industrial placement.
 
 - Full Notes
   - [AIP](https://github.com/markormesher/cs-notes/tree/master/Year 4/AIP)
