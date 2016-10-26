@@ -11,6 +11,7 @@ cp "../Year 4/INS/notes.pdf" \
 	"../Year 4/INS/tutorial-1.pdf" \
 	"../Year 4/INS/tutorial-2.pdf" \
 	"../Year 4/INS/tutorial-3.pdf" \
+	"../Year 4/INS/tutorial-4.pdf" \
 	"Year 4/INS/."
 
 cp "../Year 4/PAL/notes.pdf" \
@@ -20,5 +21,6 @@ cp "../Year 4/PAL/notes.pdf" \
 	"Year 4/PAL/."
 
 git add .
+git status
 git commit -m "Auto-update 3rd/4th year notes"
 git push
