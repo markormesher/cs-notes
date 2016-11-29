@@ -14,6 +14,7 @@ cp "../Year 4/INS/notes.pdf" \
 	"../Year 4/INS/tutorial-4.pdf" \
 	"../Year 4/INS/tutorial-5.pdf" \
 	"../Year 4/INS/tutorial-6.pdf" \
+	"../Year 4/INS/tutorial-7.pdf" \
 	"Year 4/INS/."
 
 cp "../Year 4/PAL/notes.pdf" \
