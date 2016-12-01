@@ -5,6 +5,9 @@ mkdir -p "Year 4/INS"
 mkdir -p "Year 4/PAL"
 
 cp "../Year 4/AIP/notes.pdf" \
+	"../Year 4/AIP/tutorial-1.pdf" \
+	"../Year 4/AIP/tutorial-5.pdf" \
+	"../Year 4/AIP/tutorial-7.pdf" \
 	"Year 4/AIP/."
 
 cp "../Year 4/INS/notes.pdf" \
