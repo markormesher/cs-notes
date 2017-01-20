@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# first term
+
 mkdir -p "Year 4/AIP"
 mkdir -p "Year 4/INS"
 mkdir -p "Year 4/PAL"
@@ -25,6 +27,21 @@ cp "../Year 4/PAL/notes.pdf" \
 	"../Year 4/PAL/tutorial-sheet-3.pdf" \
 	"../Year 4/PAL/tutorial-week-4.pdf" \
 	"Year 4/PAL/."
+
+# second term
+
+mkdir -p "Year 4/DSM"
+mkdir -p "Year 4/OME"
+mkdir -p "Year 4/TSP"
+
+cp "../Year 4/DSM/notes.pdf" \
+	"Year 4/DSM/."
+
+cp "../Year 4/OME/notes.pdf" \
+	"Year 4/OME/."
+
+cp "../Year 4/TSP/notes.pdf" \
+	"Year 4/TSP/."
 
 git add .
 git status
