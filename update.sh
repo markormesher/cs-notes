@@ -35,23 +35,23 @@ mkdir -p "Year 4/OME"
 mkdir -p "Year 4/TSP"
 
 cp "../Year 4/DSM/notes.pdf" \
-	"../Year 4/DSM/tutorial-1.pdf"
-	"../Year 4/DSM/tutorial-2.pdf"
-	"../Year 4/DSM/tutorial-3.pdf"
-	"../Year 4/DSM/tutorial-4.pdf"
-	"../Year 4/DSM/tutorial-5.pdf"
+	"../Year 4/DSM/tutorial-1.pdf" \
+	"../Year 4/DSM/tutorial-2.pdf" \
+	"../Year 4/DSM/tutorial-3.pdf" \
+	"../Year 4/DSM/tutorial-4.pdf" \
+	"../Year 4/DSM/tutorial-5.pdf" \
 	"Year 4/DSM/."
 
 cp "../Year 4/OME/notes.pdf" \
-	"../Year 4/OME/tutorial-1.pdf"
-	"../Year 4/OME/tutorial-2.pdf"
+	"../Year 4/OME/tutorial-1.pdf" \
+	"../Year 4/OME/tutorial-2.pdf" \
 	"Year 4/OME/."
 
 cp "../Year 4/TSP/notes.pdf" \
-	"../Year 4/TSP/tutorial-1.pdf"
-	"../Year 4/TSP/tutorial-2.pdf"
-	"../Year 4/TSP/tutorial-3.pdf"
-	"../Year 4/TSP/tutorial-4.pdf"
+	"../Year 4/TSP/tutorial-1.pdf" \
+	"../Year 4/TSP/tutorial-2.pdf" \
+	"../Year 4/TSP/tutorial-3.pdf" \
+	"../Year 4/TSP/tutorial-4.pdf" \
 	"Year 4/TSP/."
 
 git add .
