@@ -45,6 +45,7 @@ cp "../Year 4/DSM/notes.pdf" \
 cp "../Year 4/OME/notes.pdf" \
 	"../Year 4/OME/tutorial-1.pdf" \
 	"../Year 4/OME/tutorial-2.pdf" \
+	"../Year 4/OME/tutorial-3.pdf" \
 	"Year 4/OME/."
 
 cp "../Year 4/TSP/notes.pdf" \
