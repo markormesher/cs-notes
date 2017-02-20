@@ -63,5 +63,8 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 Note: these notes are filed as "Year 4" because *my* third year was an industrial placement.
 
 - [AIP](https://github.com/markormesher/cs-notes/tree/master/Year 4/AIP)
+- [DSM](https://github.com/markormesher/cs-notes/tree/master/Year 4/DSM)
 - [INS (incl. WSDL cheat-sheet)](https://github.com/markormesher/cs-notes/tree/master/Year 4/INS)
+- [OME](https://github.com/markormesher/cs-notes/tree/master/Year 4/OME)
 - [PAL (incl. 31 algorithm explanations/examples)](https://github.com/markormesher/cs-notes/tree/master/Year 4/PAL)
+- [TSP](https://github.com/markormesher/cs-notes/tree/master/Year 4/TSP)
