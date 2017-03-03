@@ -56,6 +56,9 @@ cp "../Year 4/TSP/notes.pdf" \
 	"../Year 4/TSP/tutorial-2.pdf" \
 	"../Year 4/TSP/tutorial-3.pdf" \
 	"../Year 4/TSP/tutorial-4.pdf" \
+	"../Year 4/TSP/tutorial-5-q1-q2.pdf" \
+	"../Year 4/TSP/tutorial-5-q3a.jpg" \
+	"../Year 4/TSP/tutorial-5-q3b.jpg" \
 	"Year 4/TSP/."
 
 git add .
