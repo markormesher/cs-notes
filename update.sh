@@ -50,6 +50,7 @@ cp "../Year 4/OME/notes.pdf" \
 	"../Year 4/OME/tutorial-2.pdf" \
 	"../Year 4/OME/tutorial-3.pdf" \
 	"../Year 4/OME/tutorial-4.pdf" \
+	"../Year 4/OME/tutorial-5.pdf" \
 	"Year 4/OME/."
 
 cp "../Year 4/TSP/notes.pdf" \
