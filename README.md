@@ -2,7 +2,7 @@
 
 ## A Short Message From Me (Mark)
 
-All of my notes from the 2016/17 year are now *complete and online*, so my work here is done! Apart from corrections and revision material, this repository will no longer be updated. In 2016/17 alone I have uploaded *418 pages of notes* totalling almost *38,000 words*. I have shared them for free (and will continue to do so), but *I have a small favour to ask*: if you have found these notes helpful, please consider nominating me in the upcoming KCL Informatics awards season. Nominations usually open in mid-April, and I will update this page when they do.
+All of my notes from the 2016/17 year are now complete and online, so my work here is done! Apart from corrections and revision material, this repository will no longer be updated. In 2016/17 alone I have uploaded **418 pages of notes** totalling almost **38,000 words**. I have shared them for free (and will continue to do so), but **I have a small favour to ask**: if you have found these notes helpful, please consider nominating me in the upcoming KCL Informatics awards season. Nominations usually open in mid-April, and I will update this page when they do.
 
 To those who are using these notes to revise for upcoming exams - good luck!
 
@@ -38,30 +38,30 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 ### First Year (2013/14)
 
 - Full Notes
-  - [CS1](https://github.com/markormesher/CS-Notes/raw/master/Year 1/CS1/CS1 Notes.PDF)
-  - [DST](https://github.com/markormesher/CS-Notes/raw/master/Year 1/DST/DST Notes.pdf)
-  - [ELA](https://github.com/markormesher/CS-Notes/raw/master/Year 1/ELA/ELA Notes.PDF)
-  - [FC1](https://github.com/markormesher/CS-Notes/raw/master/Year 1/FC1/FC1 Notes.PDF)
-  - [IAI](https://github.com/markormesher/CS-Notes/raw/master/Year 1/IAI/IAI Notes.pdf)
-  - [PEP](https://github.com/markormesher/CS-Notes/raw/master/Year 1/PEP/PEP Notes.PDF)
+  - [CS1](https://github.com/markormesher/CS-Notes/raw/master/Year%201/CS1/CS1%20Notes.PDF)
+  - [DST](https://github.com/markormesher/CS-Notes/raw/master/Year%201/DST/DST%20Notes.pdf)
+  - [ELA](https://github.com/markormesher/CS-Notes/raw/master/Year%201/ELA/ELA%20Notes.PDF)
+  - [FC1](https://github.com/markormesher/CS-Notes/raw/master/Year%201/FC1/FC1%20Notes.PDF)
+  - [IAI](https://github.com/markormesher/CS-Notes/raw/master/Year%201/IAI/IAI%20Notes.pdf)
+  - [PEP](https://github.com/markormesher/CS-Notes/raw/master/Year%201/PEP/PEP%20Notes.PDF)
 - Partial Notes
-  - [PRA](https://github.com/markormesher/CS-Notes/raw/master/Year 1/PRA/PRA Notes.PDF) (no notes for HCI topics; full notes for everything else)
+  - [PRA](https://github.com/markormesher/CS-Notes/raw/master/Year%201/PRA/PRA%20Notes.PDF) (no notes for HCI topics; full notes for everything else)
 - No Notes
   - PRP
 
 ### Second Year (2014/15)
 
-- [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year 2/CSL/CSL Notes.pdf)
-- [DB](https://github.com/markormesher/CS-Notes/raw/master/Year 2/DB/DB Notes.pdf)
-- [DB - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year 2/DB/CORRECTIONS.md)
-- [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Amanda Coles.pdf)
-- [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year 2/FC2/Maxime Crochemore.pdf)
-- [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Amanda Coles.pdf)
-- [OSC - Andrew Coles](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSC/Andrew Coles.pdf)
-- [OSC - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year 2/OSC/CORRECTIONS.md)
-- [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/OSD/OSD Notes.pdf)
-- [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/PLD Notes.pdf)
-- [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year 2/PLD/Supplement - Rule Induction.jpg)
+- [CSL](https://github.com/markormesher/CS-Notes/raw/master/Year%202/CSL/CSL%20Notes.pdf)
+- [DB](https://github.com/markormesher/CS-Notes/raw/master/Year%202/DB/DB%20Notes.pdf)
+- [DB - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year%202/DB/CORRECTIONS.md)
+- [FC2 - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year%202/FC2/Amanda%20Coles.pdf)
+- [FC2 - Maxime Crochemore](https://github.com/markormesher/CS-Notes/raw/master/Year%202/FC2/Maxime%20Crochemore.pdf)
+- [OSC - Amanda Coles](https://github.com/markormesher/CS-Notes/raw/master/Year%202/OSC/Amanda%20Coles.pdf)
+- [OSC - Andrew Coles](https://github.com/markormesher/CS-Notes/raw/master/Year%202/OSC/Andrew%20Coles.pdf)
+- [OSC - Corrections](https://github.com/markormesher/CS-Notes/blob/master/Year%202/OSC/CORRECTIONS.md)
+- [OSD](https://github.com/markormesher/CS-Notes/raw/master/Year%202/OSD/OSD%20Notes.pdf)
+- [PLD](https://github.com/markormesher/CS-Notes/raw/master/Year%202/PLD/PLD%20Notes.pdf)
+- [PLD - Supplement: Rule Induction](https://github.com/markormesher/CS-Notes/raw/master/Year%202/PLD/Supplement%20-%20Rule%20Induction.jpg)
 
 ### Third Year (2016/17)
 
@@ -69,9 +69,9 @@ These notes were written by me, [Mark Ormesher](http://www.markormesher.co.uk), 
 
 Note: these notes are filed as "Year 4" because *my* third year was an industrial placement.
 
-- [AIP](https://github.com/markormesher/cs-notes/tree/master/Year 4/AIP)
-- [DSM](https://github.com/markormesher/cs-notes/tree/master/Year 4/DSM)
-- [INS (incl. WSDL cheat-sheet)](https://github.com/markormesher/cs-notes/tree/master/Year 4/INS)
-- [OME](https://github.com/markormesher/cs-notes/tree/master/Year 4/OME)
-- [PAL (incl. 31 algorithm explanations/examples)](https://github.com/markormesher/cs-notes/tree/master/Year 4/PAL)
-- [TSP](https://github.com/markormesher/cs-notes/tree/master/Year 4/TSP)
+- [AIP](https://github.com/markormesher/cs-notes/tree/master/Year%204/AIP)
+- [DSM](https://github.com/markormesher/cs-notes/tree/master/Year%204/DSM)
+- [INS (incl. WSDL cheat-sheet)](https://github.com/markormesher/cs-notes/tree/master/Year%204/INS)
+- [OME](https://github.com/markormesher/cs-notes/tree/master/Year%204/OME)
+- [PAL (incl. 31 algorithm explanations/examples)](https://github.com/markormesher/cs-notes/tree/master/Year%204/PAL)
+- [TSP](https://github.com/markormesher/cs-notes/tree/master/Year%204/TSP)
