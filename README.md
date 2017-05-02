@@ -2,10 +2,11 @@
 
 ## A Short Message From Me (Mark)
 
-All of my notes from the 2016/17 year are now complete and online, so my work here is done! Apart from corrections and revision material, this repository will no longer be updated. In 2016/17 alone I have uploaded **418 pages of notes** totalling almost **38,000 words**. I have shared them for free (and will continue to do so), but **I have a small favour to ask**: if you have found these notes helpful, please consider nominating me in the upcoming KCL Informatics awards season. Nominations usually open in mid-April, and I will update this page when they do.
+All of my notes are now complete and online, so my work here is done! Apart from corrections and revision material, there will be no more updates.
 
-To those who are using these notes to revise for upcoming exams - good luck!
+In 2016/17 alone I uploaded **418 pages of notes** totalling almost **38,000 words**. I have shared them for free and will continue to do so, but **I have a small favour to ask**: if you have found these notes helpful, please consider nominating me for the Exceptional Contribution Award, the Alan Turing Prize, or the Jelf Medal in this year's NMS awards season. Nominations can be made [here](https://internal.kcl.ac.uk/NMS/stu/prize/index2.aspx). Thank you!
 
+To those who are using these notes to revise for upcoming exams - good luck! Feel free to reach out to me if anything in the notes is unclear or incorrect (my contact details are on my GitHub profile).
 
 ## Contents
 
