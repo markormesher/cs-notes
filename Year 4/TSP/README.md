@@ -1,1 +1,2 @@
 - [Doubling Algorithm Explanation/Example](https://gist.github.com/markormesher/7e3b39028f7e7237b098ebf35dcd6545)
+- [Skew Algorithm Explanation/Example](https://gist.github.com/markormesher/59b990fba09972b4737e7ed66912e044)
