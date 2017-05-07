@@ -1,0 +1,1 @@
+- [Doubling Algorithm Explanation/Example](https://gist.github.com/markormesher/7e3b39028f7e7237b098ebf35dcd6545)
