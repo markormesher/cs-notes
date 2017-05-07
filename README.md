@@ -75,4 +75,4 @@ Note: these notes are filed as "Year 4" because *my* third year was an industria
 - [INS (incl. WSDL cheat-sheet)](https://github.com/markormesher/cs-notes/tree/master/Year%204/INS)
 - [OME](https://github.com/markormesher/cs-notes/tree/master/Year%204/OME)
 - [PAL (incl. 31 algorithm explanations/examples)](https://github.com/markormesher/cs-notes/tree/master/Year%204/PAL)
-- [TSP](https://github.com/markormesher/cs-notes/tree/master/Year%204/TSP)
+- [TSP (incl. some worked examples)](https://github.com/markormesher/cs-notes/tree/master/Year%204/TSP)
