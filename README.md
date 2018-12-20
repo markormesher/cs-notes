@@ -1,6 +1,15 @@
 # Computer Science Notes
 
-## A Short Message From Me (Mark)
+## Important Note! (December 2018)
+
+Every year people reach out to thank me for these notes and ask if they can buy me a beer/coffee/whatever. I am endlessly grateful for these offers, but these notes are and always will be free, so if you feel compelled to offer something **please consider donating to one of these wonderful charities** instead:
+
+- [Shelter](https://england.shelter.org.uk/donate) - This Christmas, 131,000 children across Britain will wake up homeless; your support can help Shelter to be there for every individual and family who needs them.
+- [Against Malaria Foundation](https://www.againstmalaria.com/Donation.aspx) - Malaria has killed more people than *literally anything else*; your support can provide long-lasting insecticide treated nets and save lives around the world.
+
+Thank you.
+
+## A Short Message From Me (Mark) (March 2017)
 
 All of my notes are now complete and online, so my work here is done! Apart from corrections and revision material, there will be no more updates.
 
