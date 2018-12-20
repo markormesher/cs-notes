@@ -1,6 +1,6 @@
 # Computer Science Notes
 
-## Important Note! (December 2018)
+## :bangbang: Important Note! (December 2018)
 
 Every year people reach out to thank me for these notes and ask if they can buy me a beer/coffee/whatever. I am endlessly grateful for these offers, but these notes are and always will be free, so if you feel compelled to offer something **please consider donating to one of these wonderful charities** instead:
 
